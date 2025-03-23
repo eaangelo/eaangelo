@@ -1,8 +1,8 @@
 # 💫 About Me:
-Hi, I'm Earl <br>
+Hi, I'm Earl<br>
 
 Studying Entertainment And Multimedia Computing<br> 
-and Game Development
+and Game Development<br>
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
